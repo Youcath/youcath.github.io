@@ -12,10 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 https://blog.csdn.net/wangsidadehao/article/details/78540724
 
-##Lotti
+## Lotti
 https://juejin.im/post/5cbe760cf265da03a85ac0a8
 
-##ali
+## ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
 ```markdown
