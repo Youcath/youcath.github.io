@@ -16,6 +16,9 @@ https://blog.csdn.net/wangsidadehao/article/details/78540724
 https://blog.csdn.net/l_215851356/article/details/78579613
 http://c.biancheng.net/view/1366.html
 
+### 插件化
+http://weishu.me/2016/01/28/understand-plugin-framework-overview/
+
 ### Lotti
 https://juejin.im/post/5cbe760cf265da03a85ac0a8
 
@@ -27,6 +30,7 @@ https://blog.csdn.net/afei__/article/details/81290711
 
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
+
 发展：
 https://juejin.im/post/5c74d4b9e51d4512c37ea03b
 
