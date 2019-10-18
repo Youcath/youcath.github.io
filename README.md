@@ -28,6 +28,9 @@ https://www.jianshu.com/p/88aacbed8aa5
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
 
+### Activity启动
+http://gityuan.com/2016/03/12/start-activity/
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
