@@ -21,6 +21,7 @@ http://c.biancheng.net/view/1366.html
 
 ### 插件化
 http://weishu.me/2016/01/28/understand-plugin-framework-overview/
+
 Replugin: https://www.jianshu.com/p/18530be5dcdd
 
 ### Lotti
@@ -31,6 +32,8 @@ https://www.jianshu.com/p/88aacbed8aa5
 
 ### 线程与锁
 https://www.jianshu.com/p/c97227e592e1
+
+https://www.jianshu.com/p/465417fbba45
 
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
