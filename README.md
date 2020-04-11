@@ -12,18 +12,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 https://blog.csdn.net/wangsidadehao/article/details/78540724
 
+### 引用与拷贝
+https://www.jianshu.com/p/316a2a788007
+
 ### 设计模式 uml
 https://blog.csdn.net/l_215851356/article/details/78579613
 http://c.biancheng.net/view/1366.html
 
 ### 插件化
 http://weishu.me/2016/01/28/understand-plugin-framework-overview/
+Replugin: https://www.jianshu.com/p/18530be5dcdd
 
 ### Lotti
 https://juejin.im/post/5cbe760cf265da03a85ac0a8
 
 ### Rxjava
 https://www.jianshu.com/p/88aacbed8aa5
+
+### 线程与锁
+https://www.jianshu.com/p/c97227e592e1
 
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
