@@ -41,6 +41,9 @@ https://blog.csdn.net/afei__/article/details/81290711
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
 
+### String StringBuilder StringBuffer
+https://www.jianshu.com/p/64519f1b1137
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
