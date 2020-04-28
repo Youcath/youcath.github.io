@@ -27,6 +27,9 @@ http://weishu.me/2016/01/28/understand-plugin-framework-overview/
 
 Replugin: https://www.jianshu.com/p/18530be5dcdd
 
+### 热修复 
+https://www.cnblogs.com/popfisher/p/8543973.html
+
 ### Lotti
 https://juejin.im/post/5cbe760cf265da03a85ac0a8
 
