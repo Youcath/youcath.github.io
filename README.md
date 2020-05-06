@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 https://blog.csdn.net/wangsidadehao/article/details/78540724
 
-插桩
+### 插桩
 https://www.jianshu.com/p/16ed4d233fd1
 
 ### 引用与拷贝
@@ -35,6 +35,9 @@ https://juejin.im/post/5cbe760cf265da03a85ac0a8
 
 ### Rxjava
 https://www.jianshu.com/p/88aacbed8aa5
+
+### binder
+https://blog.csdn.net/universus/article/details/6211589
 
 ### 线程与锁
 https://www.jianshu.com/p/c97227e592e1
