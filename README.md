@@ -59,6 +59,9 @@ https://zhuanlan.zhihu.com/p/116777864
 ### leakcanary
 https://www.cnblogs.com/jymblog/p/11656221.html
 
+### message  epoll
+https://www.jianshu.com/p/97e6e6c981b6
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
