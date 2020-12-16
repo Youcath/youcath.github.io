@@ -62,6 +62,15 @@ https://www.cnblogs.com/jymblog/p/11656221.html
 ### message  epoll
 https://www.jianshu.com/p/97e6e6c981b6
 
+### Gradle 插件
+https://blog.csdn.net/wangzhongshun/article/details/88381058
+
+### Android Studio 插件
+https://www.jianshu.com/p/336a07b9d98a
+
+### 混淆
+https://www.jianshu.com/p/dd44dbcb5aea
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
