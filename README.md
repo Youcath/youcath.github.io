@@ -68,6 +68,11 @@ https://blog.csdn.net/wangzhongshun/article/details/88381058
 ### Android Studio 插件
 https://www.jianshu.com/p/336a07b9d98a
 
+### 网络优化
+http://www.52im.net/thread-1588-1-1.html
+https://segmentfault.com/a/1190000022781635
+Mars： https://github.com/Tencent/mars/wiki
+
 ### 混淆
 https://www.jianshu.com/p/dd44dbcb5aea
 https://www.jianshu.com/p/60e82aafcfd0/
