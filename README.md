@@ -67,6 +67,7 @@ https://blog.csdn.net/wangzhongshun/article/details/88381058
 
 ### Android Studio 插件
 https://www.jianshu.com/p/336a07b9d98a
+https://blog.csdn.net/weixin_34223655/article/details/88112593
 
 ### 网络优化
 http://www.52im.net/thread-1588-1-1.html
