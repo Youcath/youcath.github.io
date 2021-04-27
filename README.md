@@ -84,6 +84,13 @@ https://www.jianshu.com/p/60e82aafcfd0/
 ### ReactNative
 https://www.jianshu.com/p/97692b1c451d
 
+### JobScheduler
+https://blog.csdn.net/FightFightFight?type=blog
+https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
+
+### WorkManager
+https://blog.csdn.net/m0_46962786/article/details/109716079
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
