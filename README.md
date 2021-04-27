@@ -91,6 +91,11 @@ https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
 ### WorkManager
 https://blog.csdn.net/m0_46962786/article/details/109716079
 
+### Hook
+https://blog.csdn.net/spinchao/article/details/108300557
+https://blog.csdn.net/byhook/article/details/103500524
+https://gtoad.github.io/2018/07/13/Android-Inline-Hook-Fix/
+
 ### ali
 https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
