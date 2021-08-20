@@ -84,6 +84,9 @@ https://www.jianshu.com/p/60e82aafcfd0/
 ### ReactNative
 https://www.jianshu.com/p/97692b1c451d
 
+### 加固
+https://www.jianshu.com/p/e836428d61b9
+
 ### JobScheduler
 https://blog.csdn.net/FightFightFight?type=blog
 https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
