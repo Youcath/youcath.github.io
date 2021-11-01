@@ -47,6 +47,9 @@ https://www.jianshu.com/p/465417fbba45
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
 
+### ANR
+http://gityuan.com/2016/07/02/android-anr/
+
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
 
