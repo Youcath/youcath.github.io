@@ -48,7 +48,8 @@ https://www.jianshu.com/p/465417fbba45
 https://blog.csdn.net/afei__/article/details/81290711
 
 ### ANR
-http://gityuan.com/2016/07/02/android-anr/
+http://gityuan.com/2016/07/02/android-anr/ 
+https://blog.csdn.net/qq_32198115/article/details/120720820
 
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
@@ -81,7 +82,7 @@ https://segmentfault.com/a/1190000022781635
 Mars： https://github.com/Tencent/mars/wiki
 
 ### 混淆
-https://www.jianshu.com/p/dd44dbcb5aea
+https://www.jianshu.com/p/dd44dbcb5aea 
 https://www.jianshu.com/p/60e82aafcfd0/
 
 ### ReactNative
