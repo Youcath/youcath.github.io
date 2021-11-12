@@ -47,6 +47,9 @@ https://www.jianshu.com/p/465417fbba45
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
 
+### 崩溃日志
+https://www.oschina.net/question/2615113_2149310
+
 ### ANR
 http://gityuan.com/2016/07/02/android-anr/ 
 https://blog.csdn.net/qq_32198115/article/details/120720820
