@@ -38,6 +38,7 @@ https://www.jianshu.com/p/88aacbed8aa5
 
 ### binder
 https://blog.csdn.net/universus/article/details/6211589
+https://www.cnblogs.com/xinmengwuheng/p/7070167.html
 
 ### 线程与锁
 https://www.jianshu.com/p/c97227e592e1
