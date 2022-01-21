@@ -98,6 +98,9 @@ https://www.jianshu.com/p/e836428d61b9
 ### 老罗
 https://www.kancloud.cn/alex_wsc/androids/472169
 
+### 安全
+https://cloud.tencent.com/developer/inventory/581
+
 ### JobScheduler
 https://blog.csdn.net/FightFightFight?type=blog
 https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
