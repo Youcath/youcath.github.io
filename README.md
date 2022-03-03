@@ -38,6 +38,7 @@ https://www.jianshu.com/p/88aacbed8aa5
 
 ### binder
 https://blog.csdn.net/universus/article/details/6211589
+
 https://www.cnblogs.com/xinmengwuheng/p/7070167.html
 
 ### 线程与锁
@@ -53,10 +54,14 @@ https://www.oschina.net/question/2615113_2149310
 
 ### ANR
 http://gityuan.com/2016/07/02/android-anr/ 
+
 https://blog.csdn.net/qq_32198115/article/details/120720820
 
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
+
+### 进程后台被杀
+https://www.jianshu.com/p/e3612a9b1af3
 
 ### String StringBuilder StringBuffer
 https://www.jianshu.com/p/64519f1b1137
@@ -94,6 +99,9 @@ https://www.jianshu.com/p/97692b1c451d
 
 ### 加固
 https://www.jianshu.com/p/e836428d61b9
+
+### 运行时字节码修改
+https://blog.csdn.net/dj0379/article/details/51858275
 
 ### 老罗
 https://www.kancloud.cn/alex_wsc/androids/472169
