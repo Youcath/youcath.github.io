@@ -46,6 +46,9 @@ https://www.jianshu.com/p/c97227e592e1
 
 https://www.jianshu.com/p/465417fbba45
 
+### volatile
+https://blog.csdn.net/u012723673/article/details/80682208
+
 ### NDK
 https://blog.csdn.net/afei__/article/details/81290711
 
@@ -80,18 +83,25 @@ https://blog.csdn.net/wangzhongshun/article/details/88381058
 
 ### Android Studio 插件
 https://www.jianshu.com/p/336a07b9d98a
+
 https://blog.csdn.net/weixin_34223655/article/details/88112593
+
 https://blog.csdn.net/huachao1001/article/details/53883500
+
 https://blog.csdn.net/O4dC8OjO7ZL6/article/details/79722289
+
 https://blog.csdn.net/excellentyuxiao/article/details/80273448
 
 ### 网络优化
 http://www.52im.net/thread-1588-1-1.html
+
 https://segmentfault.com/a/1190000022781635
+
 Mars： https://github.com/Tencent/mars/wiki
 
 ### 混淆
 https://www.jianshu.com/p/dd44dbcb5aea 
+
 https://www.jianshu.com/p/60e82aafcfd0/
 
 ### ReactNative
@@ -111,6 +121,7 @@ https://cloud.tencent.com/developer/inventory/581
 
 ### JobScheduler
 https://blog.csdn.net/FightFightFight?type=blog
+
 https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
 
 ### WorkManager
@@ -118,8 +129,11 @@ https://blog.csdn.net/m0_46962786/article/details/109716079
 
 ### Hook
 https://blog.csdn.net/spinchao/article/details/108300557
+
 https://blog.csdn.net/byhook/article/details/103500524
+
 https://gtoad.github.io/2018/07/13/Android-Inline-Hook-Fix/
+
 https://blog.csdn.net/feibabeibei_beibei/article/details/89605877?spm=1001.2014.3001.5502
 
 ### ali
