@@ -129,6 +129,11 @@ https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
 ### WorkManager
 https://blog.csdn.net/m0_46962786/article/details/109716079
 
+### arsc文件解析
+https://www.codercto.com/a/79043.html
+
+https://www.codercto.com/a/80128.html
+
 ### Hook
 https://blog.csdn.net/spinchao/article/details/108300557
 
