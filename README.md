@@ -134,6 +134,9 @@ https://www.codercto.com/a/79043.html
 
 https://www.codercto.com/a/80128.html
 
+### LayoutInflater
+https://www.jianshu.com/p/accfec53cfe6
+
 ### Hook
 https://blog.csdn.net/spinchao/article/details/108300557
 
