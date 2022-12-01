@@ -137,6 +137,9 @@ https://www.codercto.com/a/80128.html
 ### LayoutInflater
 https://www.jianshu.com/p/accfec53cfe6
 
+### 全屏置灰
+饱和度设置： https://rangotec.com/archives/811
+
 ### TypedArray
 https://blog.csdn.net/q1165328963/article/details/115608413
 https://blog.csdn.net/q1165328963/article/details/124516572
