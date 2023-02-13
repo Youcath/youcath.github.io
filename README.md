@@ -64,6 +64,10 @@ https://blog.csdn.net/qq_32198115/article/details/120720820
 
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
+https://blog.csdn.net/hfy8971613/article/details/107201238
+
+### 屏幕刷新
+https://juejin.cn/post/6863756420380196877
 
 ### 进程后台被杀
 https://www.jianshu.com/p/e3612a9b1af3
