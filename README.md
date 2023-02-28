@@ -84,6 +84,9 @@ https://www.jianshu.com/p/64519f1b1137
 ### okhttp 
 https://zhuanlan.zhihu.com/p/116777864
 
+### Glide
+https://juejin.cn/post/7053406140381528095
+
 ### leakcanary
 https://www.cnblogs.com/jymblog/p/11656221.html
 
