@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 https://blog.csdn.net/wangsidadehao/article/details/78540724
 
+### 虚拟机
+https://blog.csdn.net/weixin_54098994/article/details/124383455
+
 ### 插桩
 https://www.jianshu.com/p/16ed4d233fd1
 
