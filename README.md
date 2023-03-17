@@ -117,6 +117,9 @@ https://segmentfault.com/a/1190000022781635
 
 Mars： https://github.com/Tencent/mars/wiki
 
+### Dex优化
+https://blog.csdn.net/weixin_61845324/article/details/125081880
+
 ### 混淆
 https://www.jianshu.com/p/dd44dbcb5aea 
 
