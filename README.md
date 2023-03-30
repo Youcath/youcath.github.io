@@ -72,6 +72,7 @@ https://blog.csdn.net/qq_32198115/article/details/120720820
 
 ### Activity启动
 http://gityuan.com/2016/03/12/start-activity/
+
 https://blog.csdn.net/hfy8971613/article/details/107201238
 
 ### 屏幕刷新
@@ -88,6 +89,8 @@ https://www.jianshu.com/p/64519f1b1137
 
 ### okhttp 
 https://zhuanlan.zhihu.com/p/116777864
+
+https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650267613&idx=1&sn=a4f1ae77700723e548cf9209bbab61b5&chksm=88632eb2bf14a7a44d752ef76ebdb55297c9478ca5bd485d13167f0ee985c5e7b172fd984996&scene=27
 
 ### Glide
 https://juejin.cn/post/7053406140381528095
