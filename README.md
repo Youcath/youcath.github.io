@@ -87,6 +87,7 @@ https://juejin.cn/post/6863756420380196877
 
 ### SurfaceFlinger启动与绘图原理
 https://juejin.cn/post/6891980868798939150 
+https://juejin.cn/post/6846687596374917134
 
 ### 进程后台被杀
 https://www.jianshu.com/p/e3612a9b1af3
