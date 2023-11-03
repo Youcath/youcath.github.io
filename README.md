@@ -164,6 +164,9 @@ https://blog.csdn.net/zhangyongfeiyong/article/details/52130413
 ### WorkManager
 https://blog.csdn.net/m0_46962786/article/details/109716079
 
+### SysTrace
+https://www.androidperformance.com/2019/05/28/Android-Systrace-About/#/%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E6%8A%93%E5%8F%96-Systrace
+
 ### arsc文件解析
 https://www.codercto.com/a/79043.html
 
