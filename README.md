@@ -22,6 +22,9 @@ Sqlite源码： http://www.yfvb.com/help/sqlite3/index.htm
 ### 外部存储的挂载机制
 https://blog.csdn.net/wanhongluli/article/details/108329737
 
+### 相机
+https://deepinout.com/android-camera/android-camera-system-intro.html
+
 ### 虚拟机
 https://blog.csdn.net/weixin_54098994/article/details/124383455
 
