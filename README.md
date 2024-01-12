@@ -67,6 +67,8 @@ https://blog.csdn.net/universus/article/details/6211589
 
 https://www.cnblogs.com/xinmengwuheng/p/7070167.html
 
+https://paul.pub/android-binder-driver/
+
 ### 线程与锁
 https://www.jianshu.com/p/c97227e592e1
 
@@ -202,6 +204,9 @@ https://juejin.im/user/558cc8dae4b0de86abc9cfda/posts
 
 ### 排序
 https://www.cnblogs.com/morethink/p/8419151.html
+
+### 好文索引
+https://www.androidperformance.com/2019/12/01/BlogMap/#/%E7%90%86%E8%AE%BA%E7%9F%A5%E8%AF%86
 
 发展：
 https://juejin.im/post/5c74d4b9e51d4512c37ea03b
