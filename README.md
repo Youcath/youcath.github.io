@@ -24,6 +24,7 @@ https://blog.csdn.net/wanhongluli/article/details/108329737
 
 ### 相机
 https://deepinout.com/android-camera/android-camera-system-intro.html
+https://blog.csdn.net/Sugar_wolf/article/details/129990592
 
 ### 视频流转码
 https://blog.csdn.net/weixin_41937380/article/details/127758173
