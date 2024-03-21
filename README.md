@@ -211,6 +211,8 @@ https://www.cnblogs.com/morethink/p/8419151.html
 ### 好文索引
 https://www.androidperformance.com/2019/12/01/BlogMap/#/%E7%90%86%E8%AE%BA%E7%9F%A5%E8%AF%86
 
+https://www.jianshu.com/u/7f26e9b13731
+
 发展：
 https://juejin.im/post/5c74d4b9e51d4512c37ea03b
 
